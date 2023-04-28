@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Backend Development
 - 💬 Ask me about Frontend Development
 - 😄 Pronouns: Him/He
-- ⚡ Fun fact: I love singing
+- ⚡ Fun fact: Looking at the lines of code on my screen is much fun to me..
 
