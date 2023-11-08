@@ -12,3 +12,4 @@ Here are some ideas about me:
 - ⚡ Fun fact: Looking at the lines of code on my screen is much fun to me..
 
 ![Build Status](https://github.com/users/kemerald25/achievements/pull-shark)
+![Build Status](https://github.com/users/kemerald25/achievements/yolo)
