@@ -44,7 +44,7 @@ Here are some ideas about me:
 </p>
 
 
-### Top Languages && Wakatime Stats
+### Top Languages
 
 <p style="display: flex; justify-content: space-between;" float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kemerald25&theme=yeblu&limit=15&layout=compact" alt="Top Langs" style="width: 32%; height: auto;"/>
