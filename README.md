@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Welcome to my GitHub Profile
 
-[![Emerald](https://img.shields.io/badge/Cavin-<COLOR>.svg)](https://shields.io/)
+[![Emerald](https://img.shields.io/badge/Royale-<COLOR>.svg)](https://shields.io/)
 ![Followers](https://img.shields.io/github/followers/Kemerald25?label=Follow&style=social&style=plastic)
 ![Stars](https://img.shields.io/github/stars/Kemerald25?affiliations=OWNER%2CCOLLABORATOR&style=social&style=plastic&color=gold)
 ![Profile Views](https://komarev.com/ghpvc/?username=Kemerald25&color=green&style=plastic)
