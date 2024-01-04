@@ -48,7 +48,7 @@ Here are some ideas about me:
 
 <p style="display: flex; justify-content: space-between;" float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kemerald25&theme=yeblu&limit=15&layout=compact" alt="Top Langs" style="width: 32%; height: auto;"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kemerald25&hide_border=true&layout=compact&hide_title=false&langs_count=15&range=all_time&theme=blue-green" alt="Wakatime Stats" style="width: 45%; height: auto;"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kemerald25&hide_border=true&layout=compact&hide_title=false&langs_count=15&range=all_time&theme=blue-green" alt="Wakatime Stats" style="width: 45%; height: auto;"/> -->
 
 
   ### GitHub Activity Graph
