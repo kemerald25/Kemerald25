@@ -11,7 +11,7 @@
 
 Here are some ideas about me:
 
-- 🔭 I’m currently working on a Logistic Platform
+- 🔭 I’m currently working on a Logistic Platform, building somrthing great
 - 🌱 I’m currently learning React.js 
 - 👯 I’m looking to collaborate on Anything
 - 🤔 I’m looking for help with Backend Development
