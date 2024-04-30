@@ -35,6 +35,12 @@ Here are some ideas about me:
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL Logo" width="40" height="40"></a>
 
+## 🏆 Github Trophy
+  
+<a href="https://Kemerald25.github.io">
+<img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=Kemerald25&theme=gruvbox">
+</a>
+
 
 ### GitHub Streak Stats && Stats
 
