@@ -13,7 +13,7 @@ Here are some ideas about me:
 
 - 🔭 I’m currently working on my brand, building something great
 - 🌱 I’m currently learning Smart Contract Engr
-- 👯 I’m looking to collaborate on Anything
+- 👯 I’m looking to collaborate
 - 🤔 I’m looking for help with Backend Development
 - 💬 Ask me about Frontend Development
 - 😄 Pronouns: Him/He
