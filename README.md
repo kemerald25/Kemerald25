@@ -17,7 +17,7 @@ Here are some ideas about me:
 - 🤔 I’m looking for help with Backend Development
 - 💬 Ask me about Frontend Development
 - 😄 Pronouns: Him/He
-- ⚡ Fun fact: Looking at the lines of code on my screen is much fun to me..
+- ⚡ Fun fact: Looking at the lines of code on my screen is much fun to me...
 
 - ### Development Tools, Server, Host, Platform, Database & Languages
 
