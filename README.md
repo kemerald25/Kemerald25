@@ -18,7 +18,7 @@ Here are some ideas about me:
 - 💬 Ask me about Frontend Development using React JS or Next Js or some Css libraries 
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: Looking at the lines of code on my screen is much fun to me...
-
+- Welcome to bug fixings 🙂
 - ### Development Tools, Server, Host, Platform, Database & Languages
 
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git Logo" width="40" height="40"></a>
