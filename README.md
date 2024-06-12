@@ -1,5 +1,6 @@
 ### Hi there I'm Dev Royale 👋
 ## Welcome to my GitHub Profile
+![Pro Badge](https://img.shields.io/badge/Pro-User-brightgreen)
 
 [![Emerald](https://img.shields.io/badge/Royale-<COLOR>.svg)](https://shields.io/)
 ![Followers](https://img.shields.io/github/followers/Kemerald25?label=Follow&style=social&style=plastic)
