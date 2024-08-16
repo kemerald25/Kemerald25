@@ -9,7 +9,7 @@
 ## [![wakatime](https://wakatime.com/badge/user/0a629113-4a07-4f00-baa2-ec03ce250a02.svg?style=plastic)](https://wakatime.com/@0a629113-4a07-4f00-baa2-ec03ce250a02)
 ## [![Discord Server](https://img.shields.io/discord/950481728068263976?color=blueviolet&logo=Discord&style=plastic)](https://discord.gg/GnrKuFSaUC)
 
-<a href="https://app.daily.dev/devroyale"><img src="https://api.daily.dev/devcards/v2/Dl0y4Yzzel8TzLIVYhvsm.png?type=default&r=fmr" width="356" alt="Dev Royale's Dev Card"/></a>
+<a href="https://app.daily.dev/devroyale"><img src="https://api.daily.dev/devcards/v2/Dl0y4Yzzel8TzLIVYhvsm.png?type=wide&r=a4l" width="652" alt="Dev Royale's Dev Card"/></a>
 
 
 Here are some ideas about me:
