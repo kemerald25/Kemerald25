@@ -18,7 +18,7 @@ Here are some ideas about me:
 - 🌱 I’m currently learning Smart Contract Engr
 - 👯 I’m looking to collaborate
 - 🤔 I’m looking for help with Backend Development
-- 💬 Ask me about Frontend Development using React JS or Next Js or some Css libraries 
+- 💬 Ask me about Frontend Development using React JS or Next Js or some Css libraries like Tailwind
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: Looking at the lines of code on my screen is much fun to me...
 - Welcome to bug fixings 🙂
