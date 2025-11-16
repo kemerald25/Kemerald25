@@ -1,4 +1,4 @@
-### Hi there I'm Dev Royale 👋👋
+## Hi there I'm Dev Royale 👋👋
 ### Welcome to my GitHub Profile
 ![Pro Badge](https://img.shields.io/badge/Pro-User-brightgreen)
 
